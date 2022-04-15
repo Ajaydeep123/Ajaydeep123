@@ -28,6 +28,9 @@
 <a href="https://instagram.com/ajaydeep_singh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajaydeep_singh_rajput" height="30" width="40" /></a>
 </p>
 
+<img 
+   src="https://github-readme-stats.vercel.app/api?username=ajaydeep123&show_icons=true&theme=tokyonight" 
+/>
 
 
 <h3 align="left">Languages and Tools:</h3>
