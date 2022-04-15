@@ -28,7 +28,7 @@
 <a href="https://instagram.com/ajaydeep_singh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajaydeep_singh_rajput" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucb6guxpptvboryxzf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucb6guxpptvboryxzf1" height="30" width="40" /></a>
 </p>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ajaydeep123&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
