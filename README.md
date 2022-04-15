@@ -26,7 +26,6 @@
 <a href="https://twitter.com/ajaydeeprajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajaydeeprajput" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ajaynws" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajaynws" height="30" width="40" /></a>
 <a href="https://instagram.com/ajaydeep_singh_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajaydeep_singh_rajput" height="30" width="40" /></a>
-<a href="https://www.youtube.com/ucb6guxpptvboryxzf1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucb6guxpptvboryxzf1" height="30" width="40" /></a>
 </p>
 
 
