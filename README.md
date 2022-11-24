@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Building an ecommerce website for Indian Farmers.**
 
-- 🌱 I’m currently learning **Frontend Development and DSA**
+- 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on **DSA problem solving and exciting development projects which helps us to make our lives more efficient.**
+- 👯 I’m looking to collaborate on **developing cool MERN stack projects.**
 
-- 💻 I'm actively looking for **jobs for the role of SDE.**
+- 💻 I'm actively looking for **jobs for the role of SDE/FTE**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Ajaydeep123)
 
