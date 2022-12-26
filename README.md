@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajaydeep Singh Rajpoot</h1>
 
-[![@ajaydeep123's Holopin board](https://holopin.me/ajaydeep123)](https://holopin.io/@ajaydeep123)
+<!-- [![@ajaydeep123's Holopin board](https://holopin.me/ajaydeep123)](https://holopin.io/@ajaydeep123) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajaydeep123&label=Profile%20views&color=0e75b6&style=flat" alt="ajaydeep123" /> </p>
 
