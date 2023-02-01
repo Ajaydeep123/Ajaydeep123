@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ajaydeeprajput" target="blank"><img src="https://img.shields.io/twitter/follow/ajaydeeprajput?logo=twitter&style=for-the-badge" alt="ajaydeeprajput" /></a> </p>
 
-- 🔭 I’m currently working on **Building an ecommerce website for Indian Farmers.**
+- 🔭 I’m currently working as a **Freelance frontend developer.**
 
 - 🌱 I’m currently learning **MERN Stack**
 
