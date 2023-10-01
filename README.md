@@ -18,7 +18,7 @@
 
 - 📫 feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ajaynws)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1OTcuax8FfJkm9hR1HYQvGNXvc9A1SUnC/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mcbSs_Ji_8xhG5NIEXxdvxK0jmr5AO8P/view?usp=drive_link) 
 
 - ⚡ Fun fact **I make Travel videos.**
 
