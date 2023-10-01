@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working as a **Freelance frontend developer.**
 
-- 🌱 I’m currently learning **MERN Stack**
-
 - 👯 I’m looking to collaborate on **developing cool MERN stack projects.**
 
 - 💻 I'm actively looking for **jobs for the role of SDE/FTE**
