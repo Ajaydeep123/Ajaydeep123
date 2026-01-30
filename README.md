@@ -4,14 +4,8 @@
 
 <p align="left"> <a href="https://twitter.com/ajaydeeprajput" target="blank"><img src="https://img.shields.io/twitter/follow/ajaydeeprajput?logo=twitter&style=for-the-badge" alt="ajaydeeprajput" /></a> </p>
 
-- 🔭 I’m currently working as a **Freelance frontend developer.**
-
-- 👯 I’m looking to collaborate on **developing cool MERN stack projects.**
-
-- 💻 I'm actively looking for **jobs for the role of SDE/FTE**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/Ajaydeep123)
-
+- 🔭 I build high-performance, scalable systems across the full stack, distributed architectures, modern web applications, and cloud infrastructure.
+  
 - 📫 feel free to ping me on [LinkedIn](https://www.linkedin.com/in/ajaynws)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mcbSs_Ji_8xhG5NIEXxdvxK0jmr5AO8P/view?usp=drive_link) 
